@@ -1,0 +1,17 @@
+ul{
+    color: blue;
+    text-align: left;
+    text-align: center;
+}
+
+.table-1, .table-2, .table-3, .table-4, .table-5{
+    /* border: 2px solid black; */
+    width: 50vw;
+    margin: auto;
+
+}
+
+h{
+    font-weight: 700;
+    font-size: 25px;
+}
